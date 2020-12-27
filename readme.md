@@ -9,4 +9,4 @@ AI Lab Questions :
 7. Create a knowledge base using prepositional logic  and  prove the given query using resolution
 8. Implement unification in first order logic 
 9. Convert  given first order logic statement into Conjunctive Normal Form(CNF)
-10. Create a knowledgebase consisting of first order logic statementsand prove the given query using forward reasoning
+10. Create a knowledgebase consisting of first order logic statements and prove the given query using forward reasoning
